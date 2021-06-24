@@ -1,13 +1,13 @@
 {
     "version": "2.3.0",
-    "name": "cordova-plugin-request-location-accuracy",
+    "name": "cordova-plugin-request-location-accuracy-indigo",
     "cordova_name": "Request Location Accuracy",
-    "description": "Cordova/Phonegap plugin for Android to request Location Accuracy mode via Google Play Services.",
+    "description": "Forked by and for Indigo. Cordova/Phonegap plugin for Android to request Location Accuracy mode via Google Play Services.",
     "author": "Dave Alden",
   "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/dpa99c/cordova-plugin-request-location-accuracy.git"
+        "url": "https://github.com/mRoca/cordova-plugin-request-location-accuracy.git"
     },
     "cordova": {
         "id": "cordova-plugin-request-location-accuracy",
@@ -15,20 +15,5 @@
           "android",
           "ios"
         ]
-    },
-    "issue": "https://github.com/dpa99c/cordova-plugin-request-location-accuracy/issues",
-    "keywords": [
-        "ecosystem:cordova",
-        "cordova",
-        "cordova-android",
-        "cordova-ios",
-        "phonegap",
-        "diagnostic",
-        "location",
-        "accuracy",
-        "high accuracy",
-        "fine accuracy",
-        "gps",
-        "settings"
-    ]
+    }
 }
